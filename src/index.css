@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* custom background gradient */
+.bg-soft-gradient {
+  background: linear-gradient(180deg, #FBE7C6, #F9CBA5, #F6AE78);
+}
